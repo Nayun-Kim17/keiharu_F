@@ -1,7 +1,7 @@
 
 
 new rive.Rive({
-  src: "new_file.riv",
+  src: "keiharu.riv",
   canvas: document.getElementById("canvas"),
   autoplay: true,
   stateMachines: "State Machine 1"
